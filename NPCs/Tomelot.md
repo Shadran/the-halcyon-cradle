@@ -1,3 +1,4 @@
+![[img_Tomelote.png]]
 Powerful wizard residing in [Concord]. Was originally part of {insert party name here} before learning too much about the world and being forced to don cursed armor turning him mad.
 
 [[Equinox (The Party)]] befriended him...
