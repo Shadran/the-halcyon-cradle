@@ -16,3 +16,4 @@ ___
 ### Summary
 Capital of [[Codexica Dominion]]
 Nobility has been replaced with skinwalkers
+Center of the world is under Codex

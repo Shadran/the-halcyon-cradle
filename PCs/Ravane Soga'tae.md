@@ -8,4 +8,4 @@ aliases:
 - Has been turned into a Hecatian, then into a Mimithra
 - Was deemed dead by his family
 - Ran away after assassinating someone who threatened his old home
-- Learned under [[Corvin Cain]]
+- Learned under [[Corvin Cain]] the [[Raven's Order]]

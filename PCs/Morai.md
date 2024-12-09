@@ -1,6 +1,8 @@
 ---
 tags:
   - player-characters
+aliases:
+  - the fish whisperer of the citadel of light
 ---
 - From [[Aurelia's Faith]]
 - Has been frozen for a thousand years to stop a deadly curse
