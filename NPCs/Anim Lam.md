@@ -4,8 +4,7 @@ tags:
   - npcs/places/erymnos
   - npcs/places/moros
 ---
-*Image here*
-
+![[img_anim_lam.png]]
 ### Designations
 Druid from the [[Blackmire Swamp]]
 

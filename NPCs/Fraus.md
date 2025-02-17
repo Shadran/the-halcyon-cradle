@@ -12,3 +12,4 @@ tags:
 ___
 ### Summary
 Related to [[Deus Zignus]]
+Member of [[The Zignus Institute|The Institute]]

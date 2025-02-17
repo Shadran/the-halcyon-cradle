@@ -20,3 +20,6 @@ The library contains basically every book ever written and all the knowledge acc
 [[Equinox (The Party)|The Party]] can access Levels 0 and 1. Lower levels are locked behind receiving [[Authority]], an act that drenches you in Sin.
 
 One can check if they are ready for the next level if they read the last book before the access stairs and feel nothing.
+
+Reaching the 7th level will illuminate much.
+Reaching the 10th level will reveal all. 

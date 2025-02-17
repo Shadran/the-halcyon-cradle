@@ -4,8 +4,11 @@ tags:
   - gods
   - npcs/places/moros
   - fake_god
+aliases:
+  - Felixion the Bored
 ---
 ![[img_deus_felixon.png]]
+![[img_felixion_the_bored.png]]
 ### Designations
 **Divine Imperator of Luck**
 

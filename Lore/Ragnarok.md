@@ -2,4 +2,10 @@
 tags:
   - lore
 ---
-
+ - stationary magical storms known as Ragnaroks rage endlessly
+ - They are spectacular sights filled with volatile Lumina that transform matter and energy into mesmerizing objects and shapes. Each is colorful, typically remaining one dominant color. Lightning crackles in and around each Ragnarok.
+ - Disrupts magic
+ - Occasionally elementals are born in the vicinity of the Ragnaroks
+ - Benofits
+	 - Gemstones are created at the edges
+	 - [[Lumina]] is restored faster near them

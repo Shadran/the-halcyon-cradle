@@ -15,4 +15,7 @@ ___
 Afflicted with [[The Stars|The Voices]]
 Pissed off [[Morai]]
 Hoooooo
+One to be quelled/squelched/silenced according to [[The Zignus Institute]] 
+Needs reprogramming 
+
 
